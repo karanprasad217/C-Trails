@@ -1,0 +1,16 @@
+1. Write a C program to print "Hello World".
+2. Write a C program to copy input to output.
+3. Write a C program which takes in input string and returns the length of the string.
+4. Write a C program to convert fahranheit into celsius.
+5. Write a C program to print a statement using ternary operator.
+6. Write a C program to check if a number is even or odd.
+7. Write a C program to find the largest among the three numbers.
+8. Write a C program to demonstrate switch-case and break.
+9. Write a C program to execute a simple calculator.
+10. Write a C program to calculate the sum of first N natural numbers.
+11. Write a C program to read input until user enters a positive number.
+12. Write a C program to check if a number is prime or not.
+
+12. Write a C program to read 15 integer from user and print sum of only positive integers.
+13. Write a C program to read integers until user enters a negative integer or number of integer read reaches to 15.
+
