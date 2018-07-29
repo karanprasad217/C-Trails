@@ -12,4 +12,13 @@
 12. Write a C program to check if a number is prime or not.
 13. Write a C program to read 15 integer from user and print sum of only positive integers.
 14. Write a C program to read integers until user enters a negative integer or number of integer read reaches to 15.
-
+15. Write a C program to find the factorial of a given number.
+16. Write a C program to print half pyramid using */+.
+17. Write a C program to count the digits in the number.
+18. Write a C program to check if a number is an armstrong number or not.
+19. Write a C program to print the following pattern.
+  	         *
+  		      ***
+ 	         *****
+          *******
+20. Write a C program to check if a number is a palindrome or not.
