@@ -18,7 +18,7 @@
 18. Write a C program to check if a number is an armstrong number or not.
 19. Write a C program to print the following pattern.
   	         *
-  		      ***
- 	         *****
-          *******
+  		***
+ 	       *****
+              *******
 20. Write a C program to check if a number is a palindrome or not.
