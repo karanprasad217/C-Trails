@@ -22,3 +22,4 @@
  	       *****
               *******
 20. Write a C program to check if a number is a palindrome or not.
+21. Write a C program to generate fibonacci sequence.
