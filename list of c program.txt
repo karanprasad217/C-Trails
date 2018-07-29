@@ -1,3 +1,8 @@
+ __      ___		___  ___  _    ___  __   ___  
+|__ |   |   | \    /   |    |   | |\ |  |  |__| |   | |
+|   |__	|___|  \/\/    |___ |___| | \|  |  |''\ |___| |___
+___________________________________________________________
+
 1. Write a C program to print "Hello World".
 2. Write a C program to copy input to output.
 3. Write a C program which takes in input string and returns the length of the string.
@@ -23,3 +28,9 @@
               *******
 20. Write a C program to check if a number is a palindrome or not.
 21. Write a C program to generate fibonacci sequence.
+ __      _     ___ ___ ___  __  _
+|__ |  | |\ | |     |   |  |  | |\ |
+|   |__| | \| |___  |  _|_ |__| | \|
+_____________________________________
+
+22. Write a C program to swap two numbers.
