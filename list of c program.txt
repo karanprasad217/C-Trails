@@ -10,7 +10,6 @@
 10. Write a C program to calculate the sum of first N natural numbers.
 11. Write a C program to read input until user enters a positive number.
 12. Write a C program to check if a number is prime or not.
-
-12. Write a C program to read 15 integer from user and print sum of only positive integers.
-13. Write a C program to read integers until user enters a negative integer or number of integer read reaches to 15.
+13. Write a C program to read 15 integer from user and print sum of only positive integers.
+14. Write a C program to read integers until user enters a negative integer or number of integer read reaches to 15.
 
