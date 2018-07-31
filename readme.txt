@@ -34,7 +34,7 @@ ___________________________________________________________
 _____________________________________
 
 22. Write a C program to swap two numbers.
-23. Write a C program to implement pow function.
+23. Write a C program to implement pow() function.
   _    __   __    _         ___ 
  /_\  |__| |__|  /_\  \__/ |___ 
 /   \ |``\ |``\ /   \   /   ___|
