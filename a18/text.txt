@@ -1,1 +1,1 @@
-gcc a18.c -lm
+gcc p.c -lm
