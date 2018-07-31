@@ -34,3 +34,16 @@ ___________________________________________________________
 _____________________________________
 
 22. Write a C program to swap two numbers.
+23. Write a C program to implement pow function.
+  _    __   __    _         ___ 
+ /_\  |__| |__|  /_\  \__/ |___ 
+/   \ |``\ |``\ /   \   /   ___|
+_________________________________
+
+24. Write a C program to check if the two arrays a and b have an element in common.
+ ___  ___  ___  ___ _  _  ___
+|___   |  |___|  |  |\ | | _--
+ ___|  |  |''\  _|_ | \| |__||
+_______________________________
+
+25. Write a C program to implement strcpy().
