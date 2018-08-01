@@ -1,6 +1,6 @@
 // Compile 
 // > gcc p.c
-// > ./a.out yourfilename.txt
+// > ./a.out < yourfilename.txt
 #include<stdio.h>
 int main(){
 int count = 0,i=0;
