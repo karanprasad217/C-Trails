@@ -47,3 +47,6 @@ _________________________________
 _______________________________
 
 25. Write a C program to implement strcpy().
+26. Write a C program to implement strcat().
+27. Write a C program to implement strcmp().
+28. Write a C program to count the number of characters.(from a file)
