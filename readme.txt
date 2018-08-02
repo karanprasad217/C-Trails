@@ -50,3 +50,5 @@ _______________________________
 26. Write a C program to implement strcat().
 27. Write a C program to implement strcmp().
 28. Write a C program to count the number of characters.(from a file)
+29. Write a C program to implement strrev().
+30. Write a C program to remove all the occurances of a character from the string.
