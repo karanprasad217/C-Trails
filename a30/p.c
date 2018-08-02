@@ -25,7 +25,7 @@ char a[3000];
 char replace;
 printf(ANSI_ANY"Enter the paragraph you want to edit ::: \n"ANSI_ANY2);
 gets(a);
-printf(ANSI_ANY"Enter the charater you want to replace ::: \n"ANSI_ANY2);
+printf(ANSI_ANY"Enter the charater you want to eliminate ::: \n"ANSI_ANY2);
 scanf("%c",&replace);
 printf(ANSI_ANY"Edited parapraph ::: \n"ANSI_ANY2);
 rest(a,replace);
