@@ -16,7 +16,7 @@ do{//do2
 if(b[i]==rep){
 j=i;
 do{if(b[i]!=rep){b[j]=b[i];j++;}}while(i++<loop);
-}
+}//if
 }while(i++<loop);//do2
 }// main
 
