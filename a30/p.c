@@ -1,5 +1,5 @@
 #define ANSI_ANY "\x1b[46m"
-#define ANSI_ANY "\x1b[31m"
+#define ANSI_ANY3 "\x1b[31m"
 #define ANSI_ANY2 "\x1b[0m"
 #include<stdio.h>
 
@@ -34,7 +34,7 @@ printf(ANSI_ANY"Enter the paragraph you want to edit ::: \n"ANSI_ANY2);
 gets(a);
 printf(ANSI_ANY"Enter the charater you want to eliminate ::: \n"ANSI_ANY2);
 scanf("%c",&replace);
-int jack = resr(a,replace,cxx);
+int jack = rest(a,replace,cxx);
 rest(a,replace,cxx);
 printf(ANSI_ANY"Number of alphabets to be eliminated :::\n"ANSI_ANY2);
 printf(ANSI_ANY3"%d\n"ANSI_ANY2,jack);
