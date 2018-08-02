@@ -13,7 +13,7 @@ c[i++]=d[j++];
 }
 
 int main(){
-char a[] = "Karan is awesome. He loves Pema Dukpa.";
+char a[] = "♡ Pema Dukpa.";
 char b[] = "";
 //printf("%s",a);
 strcp(b,a);
