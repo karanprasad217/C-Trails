@@ -3,52 +3,52 @@
 |   |__ |___|  \/\/    |___ |___| | \|  |  |''\ |___| |___
 ___________________________________________________________
 
-1. Write a C program to print "Hello World".
-2. Write a C program to copy input to output.
-3. Write a C program which takes in input string and returns the length of the string.
-4. Write a C program to convert fahranheit into celsius.
-5. Write a C program to print a statement using ternary operator.
-6. Write a C program to check if a number is even or odd.
-7. Write a C program to find the largest among the three numbers.
-8. Write a C program to demonstrate switch-case and break.
-9. Write a C program to execute a simple calculator.
-10. Write a C program to calculate the sum of first N natural numbers.
-11. Write a C program to read input until user enters a positive number.
-12. Write a C program to check if a number is prime or not.
-13. Write a C program to read 15 integer from user and print sum of only positive integers.
-14. Write a C program to read integers until user enters a negative integer or number of integer read reaches to 15.
-15. Write a C program to find the factorial of a given number.
-16. Write a C program to print half pyramid using */+.
-17. Write a C program to count the digits in the number.
-18. Write a C program to check if a number is an armstrong number or not.
-19. Write a C program to print the following pattern.
+a1. Write a C program to print "Hello World".
+a2. Write a C program to copy input to output.
+a3. Write a C program which takes in input string and returns the length of the string.
+a4. Write a C program to convert fahranheit into celsius.
+a5. Write a C program to print a statement using ternary operator.
+a6. Write a C program to check if a number is even or odd.
+a7. Write a C program to find the largest among the three numbers.
+a8. Write a C program to demonstrate switch-case and break.
+a9. Write a C program to execute a simple calculator.
+a10. Write a C program to calculate the sum of first N natural numbers.
+a11. Write a C program to read input until user enters a positive number.
+a12. Write a C program to check if a number is prime or not.
+a13. Write a C program to read 15 integer from user and print sum of only positive integers.
+a14. Write a C program to read integers until user enters a negative integer or number of integer read reaches to 15.
+a15. Write a C program to find the factorial of a given number.
+a16. Write a C program to print half pyramid using */+.
+a17. Write a C program to count the digits in the number.
+a18. Write a C program to check if a number is an armstrong number or not.
+a19. Write a C program to print the following pattern.
   	         *
   		***
  	       *****
               *******
-20. Write a C program to check if a number is a palindrome or not.
-21. Write a C program to generate fibonacci sequence.
+a20. Write a C program to check if a number is a palindrome or not.
+a21. Write a C program to generate fibonacci sequence.
  __      _     ___ ___ ___  __  _
 |__ |  | |\ | |     |   |  |  | |\ |
 |   |__| | \| |___  |  _|_ |__| | \|
 _____________________________________
 
-22. Write a C program to swap two numbers.
-23. Write a C program to implement pow() function.
+a22. Write a C program to swap two numbers.
+a23. Write a C program to implement pow() function.
   _    __   __    _         ___ 
  /_\  |__| |__|  /_\  \__/ |___ 
 /   \ |``\ |``\ /   \   /   ___|
 _________________________________
 
-24. Write a C program to check if the two arrays a and b have an element in common.
+a24. Write a C program to check if the two arrays a and b have an element in common.
  ___  ___  ___  ___ _  _  ___
 |___   |  |___|  |  |\ | | _--
  ___|  |  |''\  _|_ | \| |__||
 _______________________________
 
-25. Write a C program to implement strcpy().
-26. Write a C program to implement strcat().
-27. Write a C program to implement strcmp().
-28. Write a C program to count the number of characters.(from a file)
-29. Write a C program to implement strrev().
-30. Write a C program to remove all the occurances of a character from the string.
+a25. Write a C program to implement strcpy().
+a26. Write a C program to implement strcat().
+a27. Write a C program to implement strcmp().
+a28. Write a C program to count the number of characters.(from a file)
+a29. Write a C program to implement strrev().
+a30. Write a C program to remove all the occurances of a character from the string.
