@@ -57,7 +57,7 @@ a30. Write a C program to remove all the occurances of a character from the stri
 |   _|_ |__ |__  _|_ /  ||_||
 ______________________________
 
-31. Write a C program to read an external file and print number of characters.
-32. Write a C program to read user input and write it to an external file.
-33. Write a C program to read a stream of characters.(dynamic)
-34. Write a C program to count the input lines from external files.
+a31. Write a C program to read an external file and print number of characters.
+a32. Write a C program to read user input and write it to an external file.
+a33. Write a C program to read a stream of characters.(dynamic)
+a34. Write a C program to count the input lines from external files.
