@@ -66,7 +66,7 @@ LINKED LISTS
 _____________
 
 a35. Write a C program to do the following ::
-    1> Insert dynamically integers into node in singly linked list.
+    1> Insert integers dynamically into node in singly linked list.
     2> Insert an integer in front of the singly linked list.
     3> Insert an integer at the end of singly linked list.
     4> Print the linked list.
