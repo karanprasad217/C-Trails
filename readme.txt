@@ -61,3 +61,18 @@ a31. Write a C program to read an external file and print number of characters.
 a32. Write a C program to read user input and write it to an external file.
 a33. Write a C program to read a stream of characters.(dynamic)
 a34. Write a C program to count the input lines from external files.
+
+LINKED LISTS
+_____________
+
+a35. Write a C program to do the following ::
+    1> Insert dynamically integers into node inside singly linked list.
+    2> Insert an integer in front of the singly linked list.
+    3> Insert an integer at the end of singly linked list.
+    4> Print the linked list.
+ ___      ___  ___   __    _  _
+|    |  ||___   |  ||  || | \/ |
+|___ |__| ___|  |  ||__|| |    |
+_________________________________
+
+c1. Write a C program to multiply (any numeric int) X 5^(numeric int). Without multiplying them. BY --> 839478 X 625 => 839478 X 5^4 => (839478 X 10^4)/2^4
