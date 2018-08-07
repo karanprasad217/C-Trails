@@ -77,4 +77,4 @@ _________________________________
 
 c1. Write a C program to multiply (any numeric int) X 5^(numeric int). Without multiplying them. BY --> 839478 X 625 => 839478 X 5^4 => (839478 X 10^4)/2^4
 c2.
-c3. Write a C program for insertion of a node in Linked List (on the basis of some constraints). Assume :: Sorted Linked List. Make a node with user input and append accordiingly.
+c3. Write a C program for insertion of a node in Linked List (on the basis of some constraints). Assume :: Sorted Linked List. Make a node with user input and append accordingly.
