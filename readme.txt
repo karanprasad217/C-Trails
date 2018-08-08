@@ -78,3 +78,8 @@ _________________________________
 c1. Write a C program to multiply (any numeric int) X 5^(numeric int). Without multiplying them. BY --> 839478 X 625 => 839478 X 5^4 => (839478 X 10^4)/2^4
 c2.
 c3. Write a C program for insertion of a node in Linked List (on the basis of some constraints). Assume :: Sorted Linked List. Make a node with user input and append accordingly.
+c4.
+c5. Write a C program for, given an array A your task is to tell at which position the equilibrium first occurs in the array. Equilibrium position in an array is a position such that the sum of elements below it is equal to the sum of elements after it.
+c6. Write a C program for, given n non-negative integers in array representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.
+c7. Write a C program for, given an array of distinct elements, rearrange the elements of array in zig-zag fashion in O(n) time. The converted array should be in form a < b > c < d > e < f.The relative order of elements is same in the output i.e you have to iterate on the original array only.
+c8. Write a C program for, given a number N, our task is to find the closest Palindrome number whose absolute difference with given number is minimum.
