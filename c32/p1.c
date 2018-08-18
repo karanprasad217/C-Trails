@@ -38,6 +38,4 @@ arr[k++]=diff;
 }//for
 i++;
 }while(i<count);//do-while
-
-
 }//main
